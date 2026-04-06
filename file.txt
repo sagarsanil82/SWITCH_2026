@@ -1,0 +1,10 @@
+bcd 
+wep 
+mewl
+Disk failure ERROR detected
+error in this line
+Error
+asdp
+warning in this line
+info in this line
+error new
